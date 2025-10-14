@@ -17,26 +17,19 @@ Designed a Power BI dashboard to provide stakeholders with a dynamic view of sal
 Tools and Technologies
 
 Python – Data cleaning and preprocessing (Pandas, NumPy)
-
 Power BI – Dashboard creation and visualization
-
 Microsoft Excel – For initial data inspection and validation
 
 Usage
 
 Use the Python scripts to clean and preprocess BMW sales data.
-
 Load the cleaned dataset into Power BI.
-
 Explore the interactive dashboard to analyze sales performance and trends.
 
 Key Insights
 
 Top Models: Identified the best-selling BMW models contributing the most to total sales.
-
 Regional Sales Trends: Analyzed performance across different markets and time periods.
-
 Customer Preferences: Observed purchase patterns and model preferences by customer segment.
-
 Revenue Insights: Highlighted revenue contribution by model, year, and region to guide strategic decisions.
 
