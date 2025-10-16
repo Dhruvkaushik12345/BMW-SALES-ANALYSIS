@@ -2,7 +2,7 @@ BMW Sales Performance Data Preparation & Visualization
 Project Overview & Objective
 Field	Detail
 Project Title	BMW Sales Data Hygiene and Dashboard Foundation
-Sector	E-commerce / Retail Analytics (Automotive Sales)
+Sector	E-commerce  Retail Analytics (Automotive Sales)
 Phase	Data Preparation & Dashboard Development
 Objective	To clean, validate, and prepare the raw BMW sales data to serve as the single source of truth for the BMW\ DASHBOARD.pbix reporting visualization.
 Key Outputs	1. cleaned_data.csv (Validated Sales Records) 2. BMW\ DASHBOARD.pbix (Power BI Sales Visualization)
@@ -28,11 +28,11 @@ KEY INSIGHTS
 
 •	The Average Rating suggests that customer satisfaction and product quality are generally strong, which is a positive foundation for repeat business and brand loyalty.
 
-
 •	Sales are likely concentrated in one or two key product categories (inferred from the pie chart), which means inventory and marketing focus must be heavily biased toward these core revenue drivers.
 
 •	A clear disparity exists in performance across different Outlet Types or Locations (inferred from the bar chart); the business should analyse the high-performing channels to extract and implement best practices elsewhere.
 
 
 •	The dashboard should be used to quickly flag low-selling items for potential promotional campaigns or discontinuation, maximizing the return on investment for shelf space and inventory capital.
+
 
